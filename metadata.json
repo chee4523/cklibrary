@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Public Library",
+  "description": "Online public library portal for browsing catalog, managing memberships, and digital borrowing checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
